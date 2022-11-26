@@ -1,0 +1,17 @@
+C:\Users\Fatih Gider\source\repos\TarihBulma\TarihBulma\bin\Debug\net6.0-windows\TarihBulma.exe
+C:\Users\Fatih Gider\source\repos\TarihBulma\TarihBulma\bin\Debug\net6.0-windows\TarihBulma.deps.json
+C:\Users\Fatih Gider\source\repos\TarihBulma\TarihBulma\bin\Debug\net6.0-windows\TarihBulma.runtimeconfig.json
+C:\Users\Fatih Gider\source\repos\TarihBulma\TarihBulma\bin\Debug\net6.0-windows\TarihBulma.dll
+C:\Users\Fatih Gider\source\repos\TarihBulma\TarihBulma\bin\Debug\net6.0-windows\TarihBulma.pdb
+C:\Users\Fatih Gider\source\repos\TarihBulma\TarihBulma\obj\Debug\net6.0-windows\TarihBulma.csproj.AssemblyReference.cache
+C:\Users\Fatih Gider\source\repos\TarihBulma\TarihBulma\obj\Debug\net6.0-windows\TarihBulma.TarihBulma.resources
+C:\Users\Fatih Gider\source\repos\TarihBulma\TarihBulma\obj\Debug\net6.0-windows\TarihBulma.csproj.GenerateResource.cache
+C:\Users\Fatih Gider\source\repos\TarihBulma\TarihBulma\obj\Debug\net6.0-windows\TarihBulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih Gider\source\repos\TarihBulma\TarihBulma\obj\Debug\net6.0-windows\TarihBulma.AssemblyInfoInputs.cache
+C:\Users\Fatih Gider\source\repos\TarihBulma\TarihBulma\obj\Debug\net6.0-windows\TarihBulma.AssemblyInfo.cs
+C:\Users\Fatih Gider\source\repos\TarihBulma\TarihBulma\obj\Debug\net6.0-windows\TarihBulma.csproj.CoreCompileInputs.cache
+C:\Users\Fatih Gider\source\repos\TarihBulma\TarihBulma\obj\Debug\net6.0-windows\TarihBulma.dll
+C:\Users\Fatih Gider\source\repos\TarihBulma\TarihBulma\obj\Debug\net6.0-windows\refint\TarihBulma.dll
+C:\Users\Fatih Gider\source\repos\TarihBulma\TarihBulma\obj\Debug\net6.0-windows\TarihBulma.pdb
+C:\Users\Fatih Gider\source\repos\TarihBulma\TarihBulma\obj\Debug\net6.0-windows\TarihBulma.genruntimeconfig.cache
+C:\Users\Fatih Gider\source\repos\TarihBulma\TarihBulma\obj\Debug\net6.0-windows\ref\TarihBulma.dll
